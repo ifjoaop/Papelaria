@@ -16,7 +16,7 @@
             </a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="{{ url('categorias') }}">
+            <a class="nav-link" href="{{ url('categories') }}">
               <i class="material-icons">person</i>
               <p>Categorias</p>
             </a>
